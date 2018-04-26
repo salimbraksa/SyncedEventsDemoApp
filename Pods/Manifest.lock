@@ -1,0 +1,16 @@
+PODS:
+  - Signals (5.0.0)
+
+DEPENDENCIES:
+  - Signals (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Signals
+
+SPEC CHECKSUMS:
+  Signals: 6c41253cc172e4251d6064341bbc555a589c8d9f
+
+PODFILE CHECKSUM: 54d4e1c363541ed23e7953ada33a78eae60137b8
+
+COCOAPODS: 1.5.0
